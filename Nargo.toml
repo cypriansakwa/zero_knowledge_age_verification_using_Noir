@@ -1,0 +1,6 @@
+[package]
+name = "zero_knowledge_age_verification_using_Noir"
+type = "bin"
+authors = [""]
+
+[dependencies]
