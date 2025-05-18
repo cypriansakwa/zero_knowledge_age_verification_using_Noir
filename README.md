@@ -29,7 +29,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/cypriansakwa/zero_knowledge_age_verification_using_Noir.git
 cd zero_knowledge_age_verification_using_Noir
-
+```
 
 Install **Nargo CLI** and **Barretenberg CLI** if you haven’t already:
 
