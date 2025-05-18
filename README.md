@@ -96,7 +96,6 @@ This contract can be deployed to an Ethereum testnet like Sepolia and used to ve
 
 - [Noir Documentation](https://noir-lang.org/docs)
 - [Barretenberg CLI](https://github.com/AztecProtocol/barretenberg)
-- [zkLearning by Zama](https://github.com/zama-ai/zk-learning)
 
 ---
 
