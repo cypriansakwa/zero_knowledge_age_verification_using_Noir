@@ -1,0 +1,3 @@
+*.sol linguist-detectable=false
+*.sol linguist-vendored
+*.nr linguist-detectable=true
