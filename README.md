@@ -33,7 +33,7 @@ cd zero_knowledge_age_verification_using_Noir
 
 Install **Nargo CLI** and **Barretenberg CLI** if you haven’t already:
 
-- [Nargo installation guide](https://noir-lang.org/getting-started/installation)
+- [Nargo installation guide](https://noir-lang.org/docs/getting_started/quick_start#installation)
 - [Barretenberg CLI GitHub](https://github.com/AztecProtocol/barretenberg)
 
 ---
